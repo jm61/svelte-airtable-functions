@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08269f36-347f-4a90-a562-7a63321d0cae/deploy-status)](https://app.netlify.com/sites/svelte-airtable-functions/deploys)
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
